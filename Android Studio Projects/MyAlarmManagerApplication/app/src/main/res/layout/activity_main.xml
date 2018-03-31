@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.unique.myalarmmanagerapplication.MainActivity">
+
+    <Button
+        android:id="@+id/alarmbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alarm"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="170dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notification using Alarm Manager"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="107dp" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889371408790",
+    "firebase_url": "https://my-fcm-data-message-app.firebaseio.com",
+    "project_id": "my-fcm-data-message-app",
+    "storage_bucket": "my-fcm-data-message-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889371408790:android:92df71b2d35009e5",
+        "android_client_info": {
+          "package_name": "com.example.unique.myfcmdatamessageapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889371408790-7usfr0a304dnlmmsrbvmnocgos4r9dv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unique.myfcmdatamessageapplication",
+            "certificate_hash": "84b11d3491c65a1ba9f50fd6c49f0f25e285c6ee"
+          }
+        },
+        {
+          "client_id": "889371408790-hpvnhur4e8iupp7s6u1k37ha3lr418l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXuPBvyWgWejLb_U0NS0vS5xIP89iiGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889371408790-hpvnhur4e8iupp7s6u1k37ha3lr418l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

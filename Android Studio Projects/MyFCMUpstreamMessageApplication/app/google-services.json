@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815802316735",
+    "firebase_url": "https://my-upstream-message-project.firebaseio.com",
+    "project_id": "my-upstream-message-project",
+    "storage_bucket": "my-upstream-message-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815802316735:android:8ff8e530fc20b59e",
+        "android_client_info": {
+          "package_name": "com.example.unique.myfcmupstreammessageapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815802316735-u9eeih63agfbiec1ihdfaidpe1t2bg54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlQoq8KKgau9x8NrZPSReFV5gcZxSRog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
